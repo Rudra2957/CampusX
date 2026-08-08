@@ -1,6 +1,8 @@
 # CampusX - Unified Student Portal - YOLO
 
-CampusX is a modern, unified student portal application built with React, TypeScript, and Lucide icons.
+CampusX is a modern, unified student portal application built with React, Typ
+- Update for second PR
+- eScript, and Lucide icons.
 
 ## Features
 - **Dashboard:** Real-time weather, class schedule, attendance status, and campus events.
