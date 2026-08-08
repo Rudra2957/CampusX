@@ -1,4 +1,4 @@
-# CampusX - Unified Student Portal
+# CampusX - Unified Student Portal - YOLO
 
 CampusX is a modern, unified student portal application built with React, TypeScript, and Lucide icons.
 
